@@ -1,24 +1,36 @@
----
-title: "Template for new recipe"
+title: "Polyjuice Potion Recipe"
 author:
-  - name: Your GitHub Name
-    url: URL of your GitHub profile
-image: "Add the URL to the image here"
-image-alt: "Add the URL to the image here"
+
+name: Potions Master
+url: https://github.com/potionsmaster
+image: "/api/placeholder/400/300"
+image-alt: "Bubbling cauldron with green potion"
 categories:
-  - Add a list of catgeories here
----
+Advanced Potions
+Transformation Brews
+Restricted Recipes
 
-## {{< fa basket-shopping >}} Ingredients
 
-- [ ] Add your ingredients here
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+{{< fa basket-shopping >}} Ingredients
 
-## {{< fa kitchen-set >}} Procedure
+ 12 lacewing flies, stewed for 21 days
+ 1 ounce of fresh fluxweed, picked at full moon
+ 3 measures of knotgrass
+ 4 leeches
+ 1 powdered horn of bicorn
+ 1 measure of boomslang skin, shredded
+ 1 small piece from intended transformation target (hair recommended)
 
-1. Step 1
-1. Step 2
-1. Step 3
+{{< fa kitchen-set >}} Procedure
+
+Begin by stewing the lacewing flies for 21 days in a copper cauldron
+Once flies are properly stewed, add the fluxweed and knotgrass
+Stir three times clockwise and let simmer for 80 minutes
+Add leeches one at a time, stirring counterclockwise between each addition
+Sprinkle in powdered bicorn horn while maintaining a steady simmer
+Add shredded boomslang skin and stir five times clockwise
+Let potion brew for 24 hours until it has a thick, mud-like consistency
+Add the piece from transformation target just before drinking
+Consume within 10 minutes of adding final ingredient
+
+Note: This potion is highly complex and takes approximately one month to prepare correctly. Effects last for one hour.
